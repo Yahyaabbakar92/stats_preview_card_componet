@@ -49,8 +49,15 @@ body {
     padding-bottom: 4.0625rem;
 }
 
+.picture {
+    background-color: hsl(277, 71%, 38%);
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
 .image {
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
     height: 28rem;
+    opacity: 0.5;
 }
